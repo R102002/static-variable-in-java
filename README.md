@@ -1,0 +1,1 @@
+# static-variable-in-java
